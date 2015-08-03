@@ -1,10 +1,3 @@
-# mongodb
-Week 1 & Week 2
+#MongoDB -NoSQL Document based database
 
-Study of Bottle Web framwork
-Create Web Application
-
-
-Week2
-
-CRUD operations
+there are many examples I have used using pymongo driver to access data.
